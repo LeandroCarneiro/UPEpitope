@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\helpers"
   ],
-  "SelectedNode": "\\UPEpitope.sln",
+  "SelectedNode": "\\helpers\\aminoAcids_encoder.py",
   "PreviewInSolutionExplorer": false
 }

@@ -32,8 +32,8 @@ y_test = to_categorical(y_test)
 
 
 model = Sequential([
-    SimpleRNN(50, return_sequences=True, input_shape=(X_train.shape[1],  1)),
-    SimpleRNN(50),
+    SimpleRNN(1, return_sequences=True, input_shape=(X_train.shape[1],  1)),
+    SimpleRNN(2),
     Dense(2, activation='softmax')
 ])
 
