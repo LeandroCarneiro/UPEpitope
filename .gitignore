@@ -3,5 +3,5 @@
 ################################################################################
 
 *.vsidx
-/.vs/old/FileContentIndex/954f13eb-be35-4aae-b797-3fba686f8e72.vsidx
-/.vs/slnx.sqlite
+/.vs/.*
+/_pycache_/.*
