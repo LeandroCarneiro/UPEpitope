@@ -1,0 +1,464 @@
+[
+  {
+    "Codon": "TTT",
+    "FullName": "Phenylalanine",
+    "Abbreviation3Letter": "Phe",
+    "Abbreviation1Letter": "F",
+    "Encode": 0
+  },
+  {
+    "Codon": "TTC",
+    "FullName": "Phenylalanine",
+    "Abbreviation3Letter": "Phe",
+    "Abbreviation1Letter": "F",
+    "Encode": 0
+  },
+  {
+    "Codon": "TTA",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "TTG",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "TCT",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "TCC",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "TCA",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "TCG",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "TAT",
+    "FullName": "Tyrosine",
+    "Abbreviation3Letter": "Tyr",
+    "Abbreviation1Letter": "Y",
+    "Encode": 3
+  },
+  {
+    "Codon": "TAC",
+    "FullName": "Tyrosine",
+    "Abbreviation3Letter": "Tyr",
+    "Abbreviation1Letter": "Y",
+    "Encode": 3
+  },
+  {
+    "Codon": "TAA",
+    "FullName": "Termination (ochre)",
+    "Abbreviation3Letter": "Ter",
+    "Abbreviation1Letter": "X",
+    "Encode": 4
+  },
+  {
+    "Codon": "TAG",
+    "FullName": "Termination (amber)",
+    "Abbreviation3Letter": "Ter",
+    "Abbreviation1Letter": "X",
+    "Encode": 4
+  },
+  {
+    "Codon": "TGT",
+    "FullName": "Cysteine",
+    "Abbreviation3Letter": "Cys",
+    "Abbreviation1Letter": "C",
+    "Encode": 5
+  },
+  {
+    "Codon": "TGC",
+    "FullName": "Cysteine",
+    "Abbreviation3Letter": "Cys",
+    "Abbreviation1Letter": "C",
+    "Encode": 5
+  },
+  {
+    "Codon": "TGA",
+    "FullName": "Termination (opal or umber)",
+    "Abbreviation3Letter": "Ter",
+    "Abbreviation1Letter": "X",
+    "Encode": 4
+  },
+  {
+    "Codon": "TGG",
+    "FullName": "Tryptophan",
+    "Abbreviation3Letter": "Trp",
+    "Abbreviation1Letter": "W",
+    "Encode": 6
+  },
+  {
+    "Codon": "CTT",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "CTC",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "CTA",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "CTG",
+    "FullName": "Leucine",
+    "Abbreviation3Letter": "Leu",
+    "Abbreviation1Letter": "L",
+    "Encode": 1
+  },
+  {
+    "Codon": "CCT",
+    "FullName": "Proline",
+    "Abbreviation3Letter": "Pro",
+    "Abbreviation1Letter": "P",
+    "Encode": 7
+  },
+  {
+    "Codon": "CCC",
+    "FullName": "Proline",
+    "Abbreviation3Letter": "Pro",
+    "Abbreviation1Letter": "P",
+    "Encode": 7
+  },
+  {
+    "Codon": "CCA",
+    "FullName": "Proline",
+    "Abbreviation3Letter": "Pro",
+    "Abbreviation1Letter": "P",
+    "Encode": 7
+  },
+  {
+    "Codon": "CCG",
+    "FullName": "Proline",
+    "Abbreviation3Letter": "Pro",
+    "Abbreviation1Letter": "P",
+    "Encode": 7
+  },
+  {
+    "Codon": "CAT",
+    "FullName": "Histidine",
+    "Abbreviation3Letter": "His",
+    "Abbreviation1Letter": "H",
+    "Encode": 8
+  },
+  {
+    "Codon": "CAC",
+    "FullName": "Histidine",
+    "Abbreviation3Letter": "His",
+    "Abbreviation1Letter": "H",
+    "Encode": 8
+  },
+  {
+    "Codon": "CAA",
+    "FullName": "Glutamine",
+    "Abbreviation3Letter": "Gln",
+    "Abbreviation1Letter": "Q",
+    "Encode": 9
+  },
+  {
+    "Codon": "CAG",
+    "FullName": "Glutamine",
+    "Abbreviation3Letter": "Gln",
+    "Abbreviation1Letter": "Q",
+    "Encode": 9
+  },
+  {
+    "Codon": "CGT",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "CGC",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "CGA",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "CGG",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "ATT",
+    "FullName": "Isoleucine",
+    "Abbreviation3Letter": "Ile",
+    "Abbreviation1Letter": "I",
+    "Encode": 11
+  },
+  {
+    "Codon": "ATC",
+    "FullName": "Isoleucine",
+    "Abbreviation3Letter": "Ile",
+    "Abbreviation1Letter": "I",
+    "Encode": 11
+  },
+  {
+    "Codon": "ATA",
+    "FullName": "Isoleucine",
+    "Abbreviation3Letter": "Ile",
+    "Abbreviation1Letter": "I",
+    "Encode": 11
+  },
+  {
+    "Codon": "ATG",
+    "FullName": "Methionine",
+    "Abbreviation3Letter": "Met",
+    "Abbreviation1Letter": "M",
+    "Encode": 12
+  },
+  {
+    "Codon": "ACT",
+    "FullName": "Threonine",
+    "Abbreviation3Letter": "Thr",
+    "Abbreviation1Letter": "T",
+    "Encode": 13
+  },
+  {
+    "Codon": "ACC",
+    "FullName": "Threonine",
+    "Abbreviation3Letter": "Thr",
+    "Abbreviation1Letter": "T",
+    "Encode": 13
+  },
+  {
+    "Codon": "ACA",
+    "FullName": "Threonine",
+    "Abbreviation3Letter": "Thr",
+    "Abbreviation1Letter": "T",
+    "Encode": 13
+  },
+  {
+    "Codon": "ACG",
+    "FullName": "Threonine",
+    "Abbreviation3Letter": "Thr",
+    "Abbreviation1Letter": "T",
+    "Encode": 13
+  },
+  {
+    "Codon": "AAT",
+    "FullName": "Asparagine",
+    "Abbreviation3Letter": "Asn",
+    "Abbreviation1Letter": "N",
+    "Encode": 14
+  },
+  {
+    "Codon": "AAC",
+    "FullName": "Asparagine",
+    "Abbreviation3Letter": "Asn",
+    "Abbreviation1Letter": "N",
+    "Encode": 14
+  },
+  {
+    "Codon": "AAA",
+    "FullName": "Lysine",
+    "Abbreviation3Letter": "Lys",
+    "Abbreviation1Letter": "K",
+    "Encode": 15
+  },
+  {
+    "Codon": "AAG",
+    "FullName": "Lysine",
+    "Abbreviation3Letter": "Lys",
+    "Abbreviation1Letter": "K",
+    "Encode": 15
+  },
+  {
+    "Codon": "AGT",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "AGC",
+    "FullName": "Serine",
+    "Abbreviation3Letter": "Ser",
+    "Abbreviation1Letter": "S",
+    "Encode": 2
+  },
+  {
+    "Codon": "AGA",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "AGG",
+    "FullName": "Arginine",
+    "Abbreviation3Letter": "Arg",
+    "Abbreviation1Letter": "R",
+    "Encode": 10
+  },
+  {
+    "Codon": "GTT",
+    "FullName": "Valine",
+    "Abbreviation3Letter": "Val",
+    "Abbreviation1Letter": "V",
+    "Encode": 16
+  },
+  {
+    "Codon": "GTC",
+    "FullName": "Valine",
+    "Abbreviation3Letter": "Val",
+    "Abbreviation1Letter": "V",
+    "Encode": 16
+  },
+  {
+    "Codon": "GTA",
+    "FullName": "Valine",
+    "Abbreviation3Letter": "Val",
+    "Abbreviation1Letter": "V",
+    "Encode": 16
+  },
+  {
+    "Codon": "GTG",
+    "FullName": "Valine",
+    "Abbreviation3Letter": "Val",
+    "Abbreviation1Letter": "V",
+    "Encode": 16
+  },
+  {
+    "Codon": "GCT",
+    "FullName": "Alanine",
+    "Abbreviation3Letter": "Ala",
+    "Abbreviation1Letter": "A",
+    "Encode": 17
+  },
+  {
+    "Codon": "GCC",
+    "FullName": "Alanine",
+    "Abbreviation3Letter": "Ala",
+    "Abbreviation1Letter": "A",
+    "Encode": 17
+  },
+  {
+    "Codon": "GCA",
+    "FullName": "Alanine",
+    "Abbreviation3Letter": "Ala",
+    "Abbreviation1Letter": "A",
+    "Encode": 17
+  },
+  {
+    "Codon": "GCG",
+    "FullName": "Alanine",
+    "Abbreviation3Letter": "Ala",
+    "Abbreviation1Letter": "A",
+    "Encode": 17
+  },
+  {
+    "Codon": "GAT",
+    "FullName": "Aspartate",
+    "Abbreviation3Letter": "Asp",
+    "Abbreviation1Letter": "D",
+    "Encode": 18
+  },
+  {
+    "Codon": "GAC",
+    "FullName": "Aspartate",
+    "Abbreviation3Letter": "Asp",
+    "Abbreviation1Letter": "D",
+    "Encode": 18
+  },
+  {
+    "Codon": "GAA",
+    "FullName": "Glutamate",
+    "Abbreviation3Letter": "Glu",
+    "Abbreviation1Letter": "E",
+    "Encode": 19
+  },
+  {
+    "Codon": "GAG",
+    "FullName": "Glutamate",
+    "Abbreviation3Letter": "Glu",
+    "Abbreviation1Letter": "E",
+    "Encode": 19
+  },
+  {
+    "Codon": "GGT",
+    "FullName": "Glycine",
+    "Abbreviation3Letter": "Gly",
+    "Abbreviation1Letter": "G",
+    "Encode": 20
+  },
+  {
+    "Codon": "GGC",
+    "FullName": "Glycine",
+    "Abbreviation3Letter": "Gly",
+    "Abbreviation1Letter": "G",
+    "Encode": 20
+  },
+  {
+    "Codon": "GGA",
+    "FullName": "Glycine",
+    "Abbreviation3Letter": "Gly",
+    "Abbreviation1Letter": "G",
+    "Encode": 20
+  },
+  {
+    "Codon": "GGG",
+    "FullName": "Glycine",
+    "Abbreviation3Letter": "Gly",
+    "Abbreviation1Letter": "G",
+    "Encode": 20
+  },
+  {
+    "Codon": "n/a",
+    "FullName": "Aspartate or Asparagine",
+    "Abbreviation3Letter": "n/a",
+    "Abbreviation1Letter": "B",
+    "Encode": 21
+  },
+  {
+    "Codon": "n/a",
+    "FullName": "Glutamate or Glutamine",
+    "Abbreviation3Letter": "n/a",
+    "Abbreviation1Letter": "Z",
+    "Encode": 22
+  }
+]
