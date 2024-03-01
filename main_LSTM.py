@@ -34,8 +34,8 @@ y_test = to_categorical(y_test)
 
 # hidden layer
 model = Sequential([
-    SimpleRNN(16, return_sequences=True, input_shape=(X_train.shape[1],  1)),
-    SimpleRNN(16),
+    LSTM(16, return_sequences=True, input_shape=(X_train.shape[1],  1)),
+    LSTM(16),
     Dense(2, activation='softmax')
 ])
 

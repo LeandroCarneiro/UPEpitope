@@ -5,3 +5,4 @@
 *.vsidx
 /.vs/.*
 /_pycache_/.*
+__pycache__/epitope_classifier.cpython-312.pyc
